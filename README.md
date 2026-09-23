@@ -9,10 +9,7 @@
 **Bean & Brew**
 A modern and responsive coffee website built using **HTML, CSS & JavaScript**.
 
-✨ Features:
-🛍️ My Store
 
-A modern and responsive e-commerce website built using HTML, CSS & JavaScript.
 
 * Responsive design
 * Coffee menu
