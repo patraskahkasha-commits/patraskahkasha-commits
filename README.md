@@ -4,19 +4,34 @@
 🌐 HTML • CSS • JavaScript • PHP • Python • MySQL
 🚀 Building responsive & user-friendly websites
 
-## ☕ Featured Project
+## 🚀 Featured Projects
 
-**Bean & Brew**
+### ☕ Bean & Brew
+
 A modern and responsive coffee website built using **HTML, CSS & JavaScript**.
 
+**Features:**
 
+* ☕ Coffee menu
+* 🖼️ Gallery
+* ⭐ Customer reviews
+* 🔍 Menu filtering
+* 📞 Contact section
+* 📱 Responsive design
 
-* Responsive design
-* Coffee menu
-* Gallery
-* Customer reviews
-* Menu filtering
-* Contact section
+### 🛍️ My Store
+
+A modern and responsive e-commerce website built using **HTML, CSS & JavaScript**.
+
+**Features:**
+
+* 🏠 Home page
+* 🛍️ Products section
+* 🔎 Product details
+* 📞 Contact page
+* 🖼️ Product images
+* 📱 Responsive design
+* 🧭 Easy navigation
 
 ## 🛠️ Technologies
 
