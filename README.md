@@ -36,3 +36,18 @@ A modern and responsive e-commerce website built using **HTML, CSS & JavaScript*
 ## 🛠️ Technologies
 
 HTML • CSS • JavaScript • PHP • Python • MySQL
+
+### 🎵 Music Player
+
+A responsive music player built using **HTML, CSS & JavaScript**.
+
+**Features:**
+
+- ▶️ Play / Pause
+- ⏭️ Next Song
+- ⏮️ Previous Song
+- 🔁 Repeat
+- 🔀 Shuffle
+- 🎵 3 Songs
+- 🖼️ Song Cover Images
+- 📱 Responsive Design
